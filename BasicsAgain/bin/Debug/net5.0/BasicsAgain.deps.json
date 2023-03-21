@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BasicsAgain/1.0.0": {
+        "runtime": {
+          "BasicsAgain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicsAgain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

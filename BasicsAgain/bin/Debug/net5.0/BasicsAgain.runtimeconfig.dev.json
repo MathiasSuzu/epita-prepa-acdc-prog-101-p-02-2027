@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SEPT\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SEPT\\.nuget\\packages"
+    ]
+  }
+}

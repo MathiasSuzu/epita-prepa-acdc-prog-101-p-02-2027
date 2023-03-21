@@ -1,0 +1,16 @@
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\bin\Debug\net5.0\BasicsAgain.exe
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\bin\Debug\net5.0\BasicsAgain.deps.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\bin\Debug\net5.0\BasicsAgain.runtimeconfig.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\bin\Debug\net5.0\BasicsAgain.runtimeconfig.dev.json
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\bin\Debug\net5.0\BasicsAgain.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\bin\Debug\net5.0\BasicsAgain.pdb
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\BasicsAgain.csproj.AssemblyReference.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\BasicsAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\BasicsAgain.AssemblyInfoInputs.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\BasicsAgain.AssemblyInfo.cs
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\BasicsAgain.csproj.CoreCompileInputs.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\BasicsAgain.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\refint\BasicsAgain.dll
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\BasicsAgain.pdb
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\BasicsAgain.genruntimeconfig.cache
+C:\Users\SEPT\Desktop\projet\epita-prepa-acdc-prog-101-p-02-2027-mathias.gillet\BasicsAgain\obj\Debug\net5.0\ref\BasicsAgain.dll
